@@ -9,7 +9,7 @@
             </a>
         </header>
         <main>
-            <h2 style="background-color:grey;  font-size:25px; text-align:center">Статья про теслу</h2>
+            <h2 style="background-color:grey; text-decoration: none;  font-size:25px; text-align:center">Статья про теслу</h2>
             <p><b><i>В нашей статье вы узнаете много интересных и мозговзрывательных фактов о тесле</i></b></p>
             <p style="font-size:20px"><font color="DarkOrange"><i>Мало известный факт</i></font>
            <br/>Хотя Илон Маск является лицом, связанным с Tesla, многие люди, вероятно, не понимают, что на самом деле он не основал компанию. Инженеры и инвесторы Мартин Эберхард и Марк Тарпеннинг были основателями, в то время как Маск присоединился к компании в самом начале ее истории.</p>
@@ -27,7 +27,7 @@
            <img src="https://www.factinate.com/wp-content/uploads/2018/02/38-11-1024x581.jpg" width="200px" height="150px">
 
         </main>
-        <footer style="background-color:DimGrey">
+        <footer style="background-color:DimGrey; text-decoration: none;">
             <h1 style="font-size:30px">
             <font color="white">Подпишитесь на нас</font></h1>
             <div>
